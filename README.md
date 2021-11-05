@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @josecelano-bot, an account using to sign commits from bots and apps. More info here: https://github.com/josecelano/pygithub
+- 👋 Hi, I’m @josecelano-bot, an account used to sign commits from bots and apps on behalf of [Jose Celano](https://github.com/josecelano) . More info here: https://github.com/josecelano/pygithub
