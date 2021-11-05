@@ -1,0 +1,1 @@
+- 👋 Hi, I’m @josecelano-bot, an account using to sign commits from bots and apps. More info here: https://github.com/josecelano/pygithub
